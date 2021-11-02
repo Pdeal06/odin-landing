@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.firstpart {
+    display: flex;
+    background-color: #1F2937;
+
+}
+
+.main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+li, .sub{
+    font-size: 18px;
+    color: #E5E7EB;
+}
