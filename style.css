@@ -15,7 +15,34 @@ body {
     color: #F9FAF8;
 }
 
-li, .sub{
+a, .sub {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 20px, 30px;
+    border-radius: 12px;
+}
+
+.header {
+    display: flex;
+    
+
