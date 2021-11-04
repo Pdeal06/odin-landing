@@ -77,3 +77,27 @@ button {
     padding: 20px; 
     gap: 5px;
 }
+
+.secondpart {
+    background-color: #d3d3d3;
+    
+}
+
+#info {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border: 2px solid #59d113
+}
+
+.imagegroup {
+    display: flex;
+    justify-content: space-evenly;
+}
+
