@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Dosis, sans-serif;
+    flex: 1 1 auto;
 }
 
 .firstpart {
@@ -103,3 +104,20 @@ img {
     height: 600px;
 }
 
+.thirdpart {
+    background-color: #E5E7EB;
+
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.goal {
+    font-weight: bold;
+    font-style: italic;
+}
