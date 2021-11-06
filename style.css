@@ -76,6 +76,7 @@ button {
 
 .secondpart {
     background-color: #d3d3d3;
+    padding: 0px 50px 50px 50px;
     
 }
 
@@ -95,7 +96,10 @@ img {
 
 .imagegroup {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    align-items: space-around;
+    gap: 20px;
+
 }
 
 #domgoat img {
@@ -120,4 +124,16 @@ img {
 .goal {
     font-weight: bold;
     font-style: italic;
+}
+
+.imgsub {
+    display: flex;
+    justify-content: center;
+    align-content: baseline;
+    flex-wrap: wrap;
+}
+
+.isub{
+    font-size: 18px;
+    color: #29752db2;
 }
