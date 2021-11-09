@@ -75,7 +75,7 @@ button {
 }
 
 .secondpart {
-    background-color: #d3d3d3;
+    background-color: #f8f5f5;
     padding: 0px 50px 50px 50px;
     
 }
@@ -109,7 +109,8 @@ img {
 }
 
 .thirdpart {
-    background-color: #E5E7EB;
+    background-color: #565a6173;
+    padding: 80px;
 
 }
 
@@ -117,13 +118,18 @@ img {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
-    display: flex;
-    flex-wrap: wrap;
+    text-align: left;
 }
 
 .goal {
     font-weight: bold;
     font-style: italic;
+}
+
+.theysaid {
+    text-align: right;
+    font-size: 26px;
+    font-weight: 600;
 }
 
 .imgsub {
