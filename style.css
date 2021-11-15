@@ -146,12 +146,46 @@ img {
 
 .fourthpart {
     background-color: #f8f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
 }
 
 .box {
-    padding: 20px 35px;
+    padding: 25px 45px;
     background-color: #3882F6;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    margin: 30px;
+    border-radius: 15px;
+    gap: 40px;
+}
+
+.call {
+    font-size: 18px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.sign {
+    font-size: 14px;
+    color: #F9FAF8;
+}
+
+.click {
+    border-color: #F9FAF8;
+    border-style: solid
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 30px;
+    font-size: 18px;   
+    color: #E5E7EB;
 
 }
