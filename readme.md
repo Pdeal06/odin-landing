@@ -1,0 +1,3 @@
+So I finally kind of finishing this Odin project. I got distracted for a couple weeks and didn't work on this like I should have, but I've finally achieved something close enough to the goal. Even as inexperienced as I am I see some obvious flaws in the order of my CSS. However, I feel it's more worthwhile to continue forward at this point.
+
+I don't really know why I steered into the goat theme. I was really enjoying LP! and liked the idea of Peggy being the GOAT, but that seemed really cringe so veered towards weird. Plus, goats don't get enough love. 
